@@ -1,0 +1,11 @@
+{
+  "name": "console_2darray_formater",
+  "version": "0.0.4",
+  "description": "This formats 2d arrays to be printed to the console nicely",
+  "main": "2darrayformatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1,07€",
+  "license": "MIT"
+}
