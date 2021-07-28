@@ -1,11 +1,22 @@
 {
   "name": "console_2darray_formater",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This formats 2d arrays to be printed to the console nicely",
   "main": "2darrayformatter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "1,07€",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Euro7Cent/console_2dArray_formater.git"
+  },
+  "keywords": [
+    "format"
+  ],
+  "bugs": {
+    "url": "https://github.com/1Euro7Cent/console_2dArray_formater/issues"
+  },
+  "homepage": "https://github.com/1Euro7Cent/console_2dArray_formater#readme"
 }
