@@ -1,6 +1,6 @@
 {
   "name": "console_2darray_formater",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "This formats 2d arrays to be printed to the console nicely",
   "main": "2darrayformatter.js",
   "scripts": {

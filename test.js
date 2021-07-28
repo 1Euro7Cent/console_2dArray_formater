@@ -1,6 +1,5 @@
 const format = require('./2darrayformatter')
-
-console.log(format([
+var arr = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -10,4 +9,8 @@ console.log(format([
     [0, 0, 0, 0, 0, 'a', 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0, 0]
-], true));
+]
+
+console.log(format(arr, true));
+
+console.log('old:', arr)
